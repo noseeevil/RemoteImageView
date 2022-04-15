@@ -1,3 +1,3 @@
 # RemoteImageView
 
-A description of this package.
+ability to download images from a remote URL
